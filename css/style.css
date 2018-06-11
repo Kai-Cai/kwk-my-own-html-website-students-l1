@@ -1,0 +1,22 @@
+h1 {
+  color: blue;
+  font-size: 60px
+}    
+    
+h1{
+    text-align: center;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+p{
+  text-indent: 50px;
+  font-size: 30px;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
